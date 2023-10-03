@@ -1,5 +1,5 @@
 //Javier García Rodríguez
-https://github.com/Javigarciagr7/EjercicioValidacionNumeros.git
+//https://github.com/Javigarciagr7/EjercicioValidacionNumeros.git
 
 var numero = prompt("Por favor, ingresa un número:");
 
