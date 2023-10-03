@@ -13,8 +13,10 @@ if (numero > 0) {
 
   console.log("El número ingresado es negativo.");
   alert("El número ingresado es negativo.");
+} else if (numero == 0){
+    console.log("El número ingresado es 0.");
+    alert("El número ingresado es 0.");
 } else {
-
-  console.log("El número ingresado es igual a cero.");
-  alert("El número ingresado es igual a cero.");
+  console.log("No se ha ingresado ningún número");
+  alert("Introduzca un número.");
 }
